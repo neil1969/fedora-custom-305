@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: blue-build/template
+  - label: neil1969/fedora-custom-305
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: blue-build/template
+      - label: fedora-custom-305
